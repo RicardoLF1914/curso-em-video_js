@@ -23,6 +23,16 @@ main {
     }
 }
 
+#btnGerarTab {
+    background-color: darkgreen;
+    color: white;
+    border-radius: 10px;
+    width: auto;
+    height: 40px;
+    font-size: 16px;
+    box-shadow: 5px 5px 10px #0000005d;
+}
+
 footer {
     font-style: italic;
     text-align: center;
